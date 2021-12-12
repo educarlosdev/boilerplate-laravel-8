@@ -13,7 +13,7 @@ class Util
 
     public function __construct()
     {
-        $this->version = '0.0.0';
+        $this->version = '1.0.0';
     }
 
     public function queueDriver(): string
